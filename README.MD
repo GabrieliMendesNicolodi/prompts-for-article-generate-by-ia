@@ -43,7 +43,7 @@ ChatGPT：
 | tópicos  | Com base no título "PHP Hoje: Relevância e Benefícios para Desenvolvedores Web", crie 5 tópicos para artigo, esses tópicos devem ser essenciais para desenvolvedores iniciantes e ensinar os principios fundamentais e mais importantes da linguagem PHP |
 | conteúdo | Comporte-se como um escritor de artigos tech back-end e escreva o Artigo atendendo as {REGRAS} abaixo, com foco em PHP, listando os principais usos do dia a dia, com exemplos em código.  Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais.
 
-{REGRAS}
+| {REGRAS} |
 - No máximo 5 linhas por blocos de explicação
 - Me explique de maneira informal, como se eu estive aprendendo agora sobre o mundo da programação
 - Os blocos que serão criados estão abaixo:
