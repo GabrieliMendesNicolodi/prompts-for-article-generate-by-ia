@@ -101,8 +101,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/GabrieliMendesNicolodi">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/gabiprogramadoraweb/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/gabrielim91/">
     Instagram</a>
