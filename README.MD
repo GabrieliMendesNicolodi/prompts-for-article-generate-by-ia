@@ -112,4 +112,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com :heart: por [Gabrieli Mendes Nicolodi](https://github.com/GabrieliMendesNicolodi)
